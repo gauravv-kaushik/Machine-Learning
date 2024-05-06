@@ -1,0 +1,6 @@
+print(10>6 or 7<3)
+print(10>6 and 7<3)
+print(10==10)
+print(10==6)
+print(not 10==10)
+print(10^7)
